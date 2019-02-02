@@ -39,8 +39,6 @@ You can get your pizza delivered at your home
 
 <a href="center/?type=loc" style="color:#000000;text-decoration:none;">
 <div class="tile">
-<div class="logo"><img src="images/icons/placeholder4.png" width="200"></div>
-<div class="title">Location</div>
 Get Pizza at your home.<br>
 </div>
 </a>
